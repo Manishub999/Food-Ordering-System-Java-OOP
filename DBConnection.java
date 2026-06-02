@@ -8,7 +8,7 @@ class DBConnection {
         try {
             String url = "jdbc:mysql://localhost:3306/food_order_db";
             String user = "root";
-            String pass = "m@ni9k@p@di5"; 
+            String pass = "**********"; 
 
             return DriverManager.getConnection(url, user, pass);
         } catch (Exception e) {
