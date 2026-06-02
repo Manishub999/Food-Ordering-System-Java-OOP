@@ -35,3 +35,17 @@ Console-based Food Ordering System developed using Java, OOP, JDBC, and MySQL.
 
 ## Author
 Manish Kapadi
+
+## Screenshots
+
+image1.png
+
+image2.png
+
+image3.png
+
+image4.png
+
+image5.png
+
+
