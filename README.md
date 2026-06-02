@@ -38,14 +38,13 @@ Manish Kapadi
 
 ## Screenshots
 
-image1.png
+![Image 1](image1.png)
 
-image2.png
+![Image 2](image2.png)
 
-image3.png
+![Image 3](image3.png)
 
-image4.png
+![Image 4](image4.png)
 
-image5.png
-
+![Image 5](image5.png)
 
