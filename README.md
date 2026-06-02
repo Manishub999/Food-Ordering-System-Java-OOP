@@ -17,7 +17,11 @@ This is a console-based Food Ordering System developed using Java and Object-Ori
 - Java
 - Object-Oriented Programming (OOP)
 - JDBC
+- MySQL
 - VS Code
+
+## Database
+This project uses MySQL for storing and retrieving food ordering data. JDBC is used to connect the Java application with the MySQL database.
 
 ## OOP Concepts Implemented
 - Classes and Objects
